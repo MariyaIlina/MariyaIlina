@@ -34,4 +34,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
- :mailbox_with_mail:
+ :mailbox_with_mail: Mariy4Ilina@yandex.ru
+
+ 
+Моё резюме: https://career.habr.com/mariya_ilyina
