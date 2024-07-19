@@ -5,13 +5,15 @@
 </div>
 
 
-## :woman_technologist:Обо мне: 
+### :woman_technologist:Обо мне: 
 
 :ru: Живу в городе Ульяновск, Россия
 
 :woman_student: Закончила курс веб-разработки от Яндекс Практикума в 2023 году.
 
 :computer: Я решила стать разработчиком, потому что  мне нравится создавать полезные и красивые сайты и эта профессия дает возможность работать дистанционно. Изучаю новые технологии, чтобы расширить свои навыки.
+
+:briefcase: Я в актином поиске работы. <a href="https://career.habr.com/mariya_ilyina">Вот моё резюме</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -36,6 +38,3 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-
- 
-Моё резюме: https://career.habr.com/mariya_ilyina
