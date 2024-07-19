@@ -8,11 +8,10 @@
 
 - 💬 Как связаться со мной:
   <div id="badges" align="center">
-  <a href="https://t.me/MariyaIlina">
+  <a href="https://t.me/Mariya_Ilina">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="your-vk-URL">
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
-  telegram: https://t.me/MariyaIlina
