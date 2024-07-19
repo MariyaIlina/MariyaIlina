@@ -28,13 +28,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40">
 </div>
 
-### 💬 Как связаться со мной:
+### 💬 Как связаться со мной: 
+
+:mailbox_with_mail: Mariy4Ilina@yandex.ru
   <div id="badges">
   <a href="https://t.me/Mariya_Ilyina">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
- :mailbox_with_mail: Mariy4Ilina@yandex.ru
 
  
 Моё резюме: https://career.habr.com/mariya_ilyina
