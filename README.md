@@ -1,4 +1,4 @@
-## Всем привет, меня зовут Мария! 👋
+## Всем привет, меня зовут Маша! 👋
 
 <div class="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5zem8yMWhqcDdmbDExYmhvdjFmaHAzN2pnZnY5d2Nua3M4cmJqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="мальчик работающий на компьютере">
@@ -29,11 +29,9 @@
 </div>
 
 ### 💬 Как связаться со мной:
-  <div id="badges" align="center">
+  <div id="badges">
   <a href="https://t.me/Mariya_Ilyina">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/mariyailina88">
-    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-  </a>
 </div>
+ :mailbox_with_mail:
